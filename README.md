@@ -5,18 +5,22 @@ I am passionate about data science, AI, ML and applying data-driven methods to s
 
 I am originally from Seoul, South Korea 🇰🇷 and now living in Atlanta, GA.
 
-#### 🔧 Technologies & Tools
+### 🔧 Technologies & Tools
 - **Languages**: Python, R, SQL, Java, Stata
 - **Libraries & Frameworks**: Pandas, Scikit-learn, NumPy, Matplotlib, Tidyverse, ggplot2, LangChain, XGBoost, AIF360
 - **Databases**: Neo4j, PostgreSQL
 - **Tools**: Microsoft Excel, Git, GitHub, LaTeX, Monday.com
 - **APIs**: OpenAI API, GLEIF API
 
-#### 📫 How to reach me
+### 🌱 I’m currently learning
+- Tableau and Power BI for data visualization
+- Prompt engineering for developers
+
+### 📫 How to reach me
 - LinkedIn: [Connect with Me Here](https://www.linkedin.com/in/jihanlee01/)
 - Email: jihan.lee@emory.edu'
 
-#### Fun fact
+#### ⚡ Fun fact
 - I am a big **sports** fan (football, or soccer in the US, baseball, tennis, and so on).
 - I love listening to **jazz** musics 🎺. My favorite artists include Mile Davis, Bill Evans, and Chet Baker.
 - I love taking landscape photos with my phone, digital camera, and 35mm film camera 📷.
