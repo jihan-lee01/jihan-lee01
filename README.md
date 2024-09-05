@@ -18,12 +18,12 @@ I am originally from Seoul, South Korea 🇰🇷 and now living in Atlanta, GA.
 
 ### 📫 How to reach me
 - LinkedIn: [Connect with Me Here](https://www.linkedin.com/in/jihanlee01/)
-- Email: jihan.lee@emory.edu'
+- Email: jihan.lee@emory.edu
 
-#### ⚡ Fun fact
+### ⚡ Fun fact
 - I am a big **sports** fan (football, or soccer in the US, baseball, tennis, and so on).
 - I love listening to **jazz** musics 🎺. My favorite artists include Mile Davis, Bill Evans, and Chet Baker.
-- I love taking landscape photos with my phone, digital camera, and 35mm film camera 📷.
+- I love taking **landscape photos** with my phone, digital camera, and 35mm film camera 📷.
 
 <!--
 **jihan-lee01/jihan-lee01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
