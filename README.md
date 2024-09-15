@@ -15,6 +15,7 @@ I am originally from Seoul, South Korea 🇰🇷 and now living in Atlanta, GA.
 ### 🌱 I’m currently learning
 - Tableau and Power BI for data visualization
 - Prompt engineering for developers
+- AWS for cloud computing
 
 ### 📫 How to reach me
 - LinkedIn: [Connect with Me Here](https://www.linkedin.com/in/jihanlee01/)
