@@ -1,20 +1,19 @@
 ## Hello there 👋
 
 My name is Jihan Lee, an aspiring **data scientist** and an undergraduate student at Emory University studying Economics/Computer Science.
-I am passionate about data science, AI, ML and applying data-driven methods to solve real-world problems and provide valuable insights.
+I am passionate about data science/analysis, AI, ML and applying data-driven methods to solve real-world problems and provide valuable insights.
 
 I am originally from Seoul, South Korea 🇰🇷 and now living in Atlanta, GA.
 
 ### 🔧 Technologies & Tools
 - **Languages**: Python, R, SQL, Java, Stata
-- **Libraries & Frameworks**: Pandas, Scikit-learn, NumPy, Matplotlib, Tidyverse, ggplot2, LangChain, XGBoost, AIF360
-- **Databases**: Neo4j, PostgreSQL
-- **Tools**: Microsoft Excel, Git, GitHub, LaTeX, Monday.com
+- **Libraries & Frameworks**: Pandas, Scikit-learn, NumPy, Matplotlib, Tidyverse, ggplot2, LangChain, XGBoost, JDBC, AIF360
+- **Databases**: PostgreSQL, SQLite, Google Cloud SQL, Neo4j
+- **Tools**: Microsoft Excel, Git, GitHub, VS Code, LaTeX, Google Cloud Platform, Tableau, Power BI
 - **APIs**: OpenAI API, GLEIF API
 
 ### 🌱 I’m currently learning
 - Tableau and Power BI for data visualization
-- Prompt engineering for developers
 - AWS for cloud computing
 
 ### 📫 How to reach me
