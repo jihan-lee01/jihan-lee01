@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-My name is Jihan Lee, an aspiring **data scientist** and an undergraduate student at Emory University studying Economics/Computer Science.
+My name is Jihan Lee, an aspiring **data analyst** and an undergraduate student at Emory University studying Economics/Computer Science.
 I am passionate about data science/analysis, AI, ML and applying data-driven methods to solve real-world problems and provide valuable insights.
 
 I am originally from Seoul, South Korea 🇰🇷 and now living in Atlanta, GA.
