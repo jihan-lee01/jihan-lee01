@@ -1,15 +1,15 @@
 ## Hello there 👋
 
-My name is Jihan Lee, an aspiring **data analyst** and an undergraduate student at Emory University studying Economics/Computer Science.
+My name is Jihan Lee, an aspiring **data analyst** and a recent graduate from Emory University with Bachelor's degree in Economics/Computer Science.
 I am passionate about data science/analysis, AI, ML and applying data-driven methods to solve real-world problems and provide valuable insights.
 
-I am originally from Seoul, South Korea 🇰🇷 and now living in Atlanta, GA.
+I am originally from and currently living in Seoul, South Korea 🇰🇷.
 
 ### 🔧 Technologies & Tools
 - **Languages**: Python, R, SQL, Java, Stata
-- **Libraries & Frameworks**: Pandas, Scikit-learn, NumPy, Matplotlib, Tidyverse, ggplot2, LangChain, XGBoost, JDBC, AIF360
+- **Libraries & Frameworks**: Pandas, Scikit-learn, NumPy, Matplotlib, Tidyverse, ggplot2, LangChain, XGBoost, JDBC, IBM AI Fairness 360
 - **Databases**: PostgreSQL, SQLite, Google Cloud SQL, Neo4j
-- **Tools**: Microsoft Excel, Git, GitHub, VS Code, LaTeX, Google Cloud Platform, Tableau, Power BI
+- **Tools**: Microsoft Excel, Git, GitHub, VS Code, LaTeX, Google Cloud Platform, Tableau, Power BI, MATLAB
 - **APIs**: OpenAI API, GLEIF API
 
 ### 🌱 I’m currently learning
@@ -18,7 +18,7 @@ I am originally from Seoul, South Korea 🇰🇷 and now living in Atlanta, GA.
 
 ### 📫 How to reach me
 - LinkedIn: [Connect with Me Here](https://www.linkedin.com/in/jihanlee01/)
-- Email: jihan.lee@emory.edu
+- Email: jihan.lee@alumni.emory.edu
 
 ### ⚡ Fun fact
 - I am a big **sports** fan (football, or soccer in the US, baseball, tennis, and so on).
